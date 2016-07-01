@@ -1,2 +1,1 @@
-# hello-world
-this is my first repository in github
+this is first editing of file
